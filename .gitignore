@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+.env
+.env.*
+npm-debug.log*
+
+# OS
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Third-party cloned repos
+serial-mcp-server/
