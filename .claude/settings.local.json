@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "mcp__plugin_dude_dude__upsert_record"
+      "mcp__plugin_dude_dude__upsert_record",
+      "Bash(ls:*)",
+      "Bash(powershell -ExecutionPolicy Bypass -File clean_dev_artifacts.ps1:*)"
     ]
   }
 }
